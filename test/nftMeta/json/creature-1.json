@@ -1,0 +1,19 @@
+{
+  "description": "Octillery is a Water-type Pokémon. It traps enemies with its suction-cupped tentacles, then smashes them with its rock-hard head. It has a tendency to want to be in holes.It is a relaxed Pokémon who loves fuss from its Trainer.",
+  "image": "https://gateway.pinata.cloud/ipfs/Qmf8vwpdmL2sad5zd4vdmnTYbeLMnNq5H2DieciENaGGhK?_gl=1*1w3o304*rs_ga*ZjVmMmNlM2QtYWFiNC00NThjLTlmMTQtOWYxYmFiZDgxZDI2*rs_ga_5RMPXG14TE*MTY4MTg5MDI4MS4xNy4wLjE2ODE4OTAyODYuNTUuMC4w",
+  "name": "Octillery",
+  "attributes": [
+    {
+      "trait_type": "attack",
+      "value": "20"
+    },
+    {
+      "trait_type": "health",
+      "value": "100"
+    },
+    {
+      "trait_type": "speed",
+      "value": "30"
+    }
+  ]
+}

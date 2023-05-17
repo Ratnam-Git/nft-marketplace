@@ -1,0 +1,19 @@
+{
+  "description": "Grapploct is a blue, amphibious, octopus-like Pokémon with a yellow jagged eyemask-like marking, suckers, and what appears to be a breathing organ on the side of its head, which can also be used to squirt out ink and perform special moves.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmQ3ucd5i32bJAQw5xUe21Fjg7SRWUXRGB8ttowT5t1gQU?_gl=1*1w3o304*rs_ga*ZjVmMmNlM2QtYWFiNC00NThjLTlmMTQtOWYxYmFiZDgxZDI2*rs_ga_5RMPXG14TE*MTY4MTg5MDI4MS4xNy4wLjE2ODE4OTAyODYuNTUuMC4w",
+  "name": "Grapploct",
+  "attributes": [
+    {
+      "trait_type": "attack",
+      "value": "60"
+    },
+    {
+      "trait_type": "health",
+      "value": "50"
+    },
+    {
+      "trait_type": "speed",
+      "value": "70"
+    }
+  ]
+}
